@@ -4,6 +4,8 @@ A simple **Tic Tac Toe** game built using **HTML, CSS, and JavaScript**. Play ag
 
 ## Demo
 
+Try the game online: [Live Demo](https://deepakmaharana278.github.io/tic-tac-toe/)
+
 
 
 ## Features
