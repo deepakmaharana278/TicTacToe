@@ -2,6 +2,8 @@
 
 A simple **Tic Tac Toe** game built using **HTML, CSS, and JavaScript**. Play against a friend on the same device!
 
+https://deepakmaharana278.github.io/TicTacToe/
+
 ## Features
 
 - Classic 3x3 Tic Tac Toe board
